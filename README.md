@@ -1,2 +1,2 @@
 # cross-team
-1234
+print("Hello world")
